@@ -1,0 +1,12 @@
+This framework allows us to test Cinderblock without the need to publish the package.
+
+## Usage
+
+1. Clone the ```https://github.com/teamfurther/cinderblock``` package
+2. Go to the local folder where you cloned the package
+3. Create an npm symbolic link in this folder: ```npm link```
+4. Start working on cool new features
+5. Clone this repo
+6. Go to the local folder where cloned this repo
+7. Type ```npm link @teamfurther/cinderblock```
+8. Start testing!
